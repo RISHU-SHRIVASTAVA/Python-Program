@@ -1,6 +1,6 @@
 x,y=0,1
 temp=0
-n=int(input("Enter lenght of Fibonacci series :"))
+n=int(input("Enter length of Fibonacci series :"))
 
 if n==1:
     print(x,end=' ')
